@@ -1,0 +1,6 @@
+- remove premium
+- remove account
+- remove limitations
+- redesign ui
+- add browse tab
+-

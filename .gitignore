@@ -1,0 +1,40 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+Thumbs.db
+*.log.lck
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# internal project docs (not committed)
+docs/Changes.md
+docs/Instructions.md
+docs/Structure.md
+plan.md
+new_plan.md
+bugsToFix.md
+
+# cursor rules and config (commit only if explicitly requested)
+.cursor/
+.cursorrules
+.codex-checkpoints
+AGENTS.md

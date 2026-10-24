@@ -1,0 +1,1 @@
+export const DIALOGUE_DISPLAY_MS = 10_000;
